@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Sou estudante Full-Stack<br>💻 Estou a procura de estágio<br>⚡ Cursando Sistemas de Informação
+📚 Desenvolvedor Full-Stack<br>💻 Estou a procura de estágio<br>⚡ Cursando Sistemas de Informação
 
 
 # 💻 Tech Stack:
