@@ -11,6 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white) 
 ![Angular TypeScript](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=%23FFFFFF) 
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=plastic&logo=.NET%20Core&logoColor=white)
+![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=plastic&logo=oracle&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=villaca-rafael&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=villaca-rafael&theme=midnight-purple&hide_border=false)<br/>
