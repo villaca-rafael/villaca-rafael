@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Desenvolvedor Full-Stack<br>💻 Estagiando no Supermercados Mundial<br>⚡ Cursando Sistemas de Informação
+📚 Desenvolvedor Full-Stack<br>💻 Técnico de informática no Supermercados Mundial<br>⚡ Cursando Sistemas de Informação
 
 
 # 💻 Tech Stack:
